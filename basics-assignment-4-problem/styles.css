@@ -82,6 +82,11 @@ p {
   color: white;
 }
 
+.none {
+  background-color: wheat;
+  color: green;
+}
+
 .hidden {
   display: none;
 }
